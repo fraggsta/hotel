@@ -1,5 +1,0 @@
-AuthType Basic
-Authname "Hotel Demo"
-AuthUserFile /home/jwibberl/.htpasswd
-Require valid-user
-
